@@ -1,0 +1,45 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "title": "Book a session",
+      "content": "If you'd like to book a session or discuss a specific topic with us, please feel free to fill out our",
+      "link": {
+        "href": "#contact-form",
+        "text": "contact form"
+      },
+      "closing": "Thank you!"
+    },
+    {
+      "id": 2,
+      "title": "Visit Us in Person",
+      "content": "We welcome you to visit",
+      "link": {
+        "href": "#map",
+        "text": "our studio"
+      },
+      "closing": "in Beni Khiar! Explore our latest photography work and discuss your requirements in person."
+    },
+    {
+      "id": 3,
+      "title": "Working Hours",
+      "content": "Our studio is open every day from 9:00 AM to 7:00 PM, offering you the convenience to visit us at a time that suits your schedule. Whether you need professional photography services.",
+      "link": {
+        "href": "",
+        "text": ""
+      },
+      "closing": ""
+    },
+
+    {
+      "id": 4,
+      "title": "Delivery Services and Photo Album Creation",
+      "content": "We offer convenient delivery services to ensure your memories reach you effortlessly. You can easily send us your photos through email, WhatsApp, or by visiting our studio.",
+      "link": {
+        "href": "",
+        "text": ""
+      },
+      "closing": ""
+    }
+  ]
+}

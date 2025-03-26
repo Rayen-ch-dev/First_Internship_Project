@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "url": "images/personnel-photo-2.png",
+    "alt": "personnel-img",
+    "description": "I am Chakib, a passionate and experienced photographer with over 10 years of expertise in the field. Beyond my professional career, I am a devoted family man, happily married, and the proud father of two wonderful children 👦&👧. My love for photography is deeply connected to my love for my family, which inspires me to dedicate myself to capturing life's most precious moments and turning them into timeless memories."
+
+  },
+  {
+    "id": 2,
+    "url": "images/team-chakib.png",
+    "alt": "team-work",
+    "description": "We are a passionate and skilled team of photographers and editors dedicated to capturing life’s most precious moments with creativity and precision. With years of experience in the industry, we combine artistic vision with technical expertise to deliver stunning, high-quality images that tell a story. Using advanced equipment and innovative techniques, we meticulously refine every detail"
+  }
+]

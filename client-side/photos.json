@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "url": "images/img10.png",
+    "alt": "marriage img",
+    "subtitle": "Wedding Photography",
+    "description": "Specializing in capturing the memorable moments of weddings, Chakib Photographe provides comprehensive coverage of wedding events. This includes pre-wedding shoots, ceremony coverage, and reception photography, ensuring that every significant moment is beautifully documented."
+  },
+  {
+    "id": 1,
+    "url": "images/proffisionel-img.png",
+    "alt": "proffisionel-img",
+    "subtitle": "Studio Photography",
+    "description": "Offering professional studio sessions, clients can have their portraits taken in a controlled environment with professional lighting and backdrops. This service is ideal for individual portraits, family photos, or any occasion that requires a studio setting."
+  },
+  {
+    "id": 2,
+    "url": "images/baby.png",
+    "alt": "children img",
+    "subtitle": "Children's Photography",
+    "description": "Capturing the joy, innocence, and energy of childhood with beautifully composed and vibrant photographs. Our children's photography sessions focus on creating timeless memories that showcase their unique personalities and playful moments."
+  },
+  {
+    "id": 3,
+    "url": "images/event.png",
+    "alt": "event photo",
+    "subtitle": "Event Photography",
+    "description": "Beyond weddings, Chakib Photographe covers various events, ensuring that all important moments are captured professionally."
+  },
+  {
+    "id": 4,
+    "url": "images/henna.png",
+    "alt": "henna image",
+    "subtitle": "Henna Ceremony Photography",
+    "description": "Specializing in documenting henna ceremonies, this service captures the intricate details and joyous moments of this traditional event."
+  },
+  {
+    "id": 5,
+    "url": "images/product.png",
+    "alt": "product img",
+    "subtitle": "product photography ",
+    "description": "Our product photography service is designed for businesses looking to enhance their branding and marketing efforts. We create professional, high-resolution images that highlight the features and quality of various products. Whether for e-commerce, advertisements, or social media marketing, we ensure that each product is presented in the most appealing way possible"
+  },
+  {
+    "id": 6,
+    "url": "images/fashion.png",
+    "alt": "model img",
+    "subtitle": "fashion and model photography",
+    "description": "fashion and model photography service provides high-quality editorial-style images that showcase clothing, accessories, and personal style. Whether for fashion catalogs, social media campaigns, or personal modeling portfolios, "
+  },
+  {
+    "id": 7,
+    "url": "images/pfe-img.png",
+    "alt": "marriage img",
+    "subtitle": "Graduation Photography",
+    "description": "Specializing in documenting henna ceremonies, this service captures the intricate details and joyous moments of this traditional event."
+  },
+  {
+    "id": 8,
+    "url": "images/family.png",
+    "alt": "marriage img",
+    "subtitle": "Family and Group Photography",
+    "description": "Family and group photography is designed to capture the essence of relationships and togetherness. Whether for holiday portraits, milestone celebrations, or spontaneous family gatherings, we create warm, natural, and expressive images. "
+  }
+]
